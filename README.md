@@ -1,6 +1,6 @@
 # PTD CLI Account Editor
 #### Video Demo: https://www.youtube.com/watch?v=tScAp4Qwd0I
-#### Installation:
+# Installation:
 - Download python3
 - Run "pip install -r requirements.txt" on the ptdcli.py folder
 - That's it, now you can run the program via "python ptdcly.py --help"
