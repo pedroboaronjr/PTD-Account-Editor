@@ -3,6 +3,7 @@
 # Installation:
 - Download python3
 - Run "pip install -r requirements.txt" on the ptdcli.py folder
+- Change the "user" and "password" variables inside ptdcli.py to match your credentials in-game
 - That's it, now you can run the program via "python ptdcly.py --help"
 # Description:
 This is a Command Line Interface account editor for Pokemon Tower Defense 1.
