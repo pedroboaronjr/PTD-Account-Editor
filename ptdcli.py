@@ -8,7 +8,7 @@ user = '' 		# Fill this with your name/email
 password = ''	# Fill this with your password
 save_slot = 1 			# Select a save slot (1, 2 or 3)
 
-url = 'http://ptd1.jordanplayz158.xyz/php/newPoke8.php'
+url = 'https://ptd1.jordanplayz158.xyz/php/newPoke8.php'
 
 # Loads the database required to query moves and abilities
 conn = sqlite3.connect('poke_data.db')
